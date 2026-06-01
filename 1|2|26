@@ -1,0 +1,138 @@
+Nyrix Privacy Policy
+
+Effective Date: 1 June 2026
+
+Nyrix is a Discord bot created by Nyro. This Privacy Policy explains what information Nyrix collects, why it is used, and how users or server owners can request data removal.
+
+By adding Nyrix to a Discord server or using Nyrix commands, you agree to this Privacy Policy.
+
+1. Information Nyrix Collects
+
+Nyrix may collect and store limited Discord data needed for the bot to work properly.
+
+This may include:
+
+Discord server IDs
+Discord server names
+Discord user IDs
+Discord usernames or mentions
+Discord channel IDs
+Discord role IDs
+Bot setup settings
+Admin user IDs added by the server owner
+Moderation log settings
+Welcome, goodbye, ticket, review, suggestion, verification, rank, XP and leaderboard settings
+Casino balances
+Casino cooldowns
+Level, rank and prestige data
+Warning, mute, kick, ban and unban action details
+Ticket information created through the bot
+Suggestion and review content submitted through the bot
+Message content only when needed for bot features, commands, moderation, locked channels, chatbot replies, secret commands, XP, reviews, suggestions, or ticket features
+
+Nyrix does not collect passwords, payment card details, private Discord login details, or any information outside Discord.
+
+2. Why Nyrix Uses This Data
+
+Nyrix uses stored data to provide its features, including:
+
+Moderation commands such as kick, ban, mute, warn, clear and unban
+Server logging
+Admin promotion and demotion
+Tickets
+Verification
+Welcome and goodbye messages
+Reviews and suggestions
+Casino games and casino balances
+Daily and crime cooldowns
+Levels, XP, prestige, ranks and leaderboards
+Bot safety, abuse prevention and banned server checks
+Bot support and troubleshooting
+
+Nyrix only uses Discord data to run bot features. Nyrix does not sell user data. Nyrix does not use user data for advertising. Nyrix does not share user data with data brokers.
+
+3. Message Content
+
+Nyrix may read message content in servers where it is installed because some features need it to work.
+
+Message content may be used for:
+
+Detecting chatbot trigger phrases
+Detecting secret casino commands
+Deleting messages from locked review, suggestion or leaderboard channels
+Giving XP for normal chat activity
+Moderation and logging features where enabled
+Ticket, review and suggestion systems
+
+Nyrix does not read messages from servers it is not in. Nyrix does not access private Discord messages unless the bot sends or receives a DM as part of a bot feature.
+
+4. Data Storage
+
+Nyrix stores data in local JSON files used by the bot. These files may include server settings, user IDs, balances, cooldowns, ranks, prestige, XP and banned server records.
+
+Data is kept only for as long as needed to provide the bot’s features, keep server settings working, prevent abuse, or support moderation records.
+
+5. Data Sharing
+
+Nyrix does not sell, rent or trade user data.
+
+Data may only be seen by:
+
+The bot developer, for support, maintenance and safety
+Server owners or admins, through bot logs and bot commands
+Discord, as part of Discord’s own platform and API services
+Hosting providers used to run the bot
+
+6. Server Owner Controls
+
+Server owners can control many Nyrix features by using the bot setup commands.
+
+Server owners can remove or change:
+
+Log channels
+Review channels
+Suggestion channels
+Ticket settings
+Verification settings
+Welcome and goodbye settings
+Leaderboard settings
+XP and rank settings
+Admin access added through Nyrix
+
+Removing Nyrix from a server stops the bot from collecting new data from that server.
+
+7. Data Removal
+
+A user or server owner can request removal of stored Nyrix data by contacting Nyro.
+
+Contact:
+Discord Username: its_nyro
+Support Server: https://discord.gg/TqQtTxmsHF
+
+When requesting data removal, include:
+
+Your Discord user ID
+The Discord server ID
+What data you want removed
+
+Some moderation or banned server records may be kept if needed for safety, abuse prevention, or to protect the bot and its servers.
+
+8. Children
+
+Nyrix is intended for use on Discord and follows Discord’s age requirements. Users must meet the minimum age required by Discord and their country.
+
+9. Security
+
+Nyrix stores only the data needed for bot features. Reasonable steps are taken to protect stored data and bot access. No online service can be guaranteed to be completely secure.
+
+10. Changes To This Policy
+
+This Privacy Policy may be updated when Nyrix changes features, data usage, hosting, or legal requirements. The latest version should always be the version linked on the bot’s Discord Developer Portal page or support server.
+
+11. Contact
+
+For privacy questions, support, or data removal requests, contact:
+
+Nyro
+Discord Username: its_nyro
+Support Server: https://discord.gg/TqQtTxmsHF 
